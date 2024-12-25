@@ -1,1 +1,1 @@
-openwrt/rootfs:x86_64
+sulinggg/openwrt
