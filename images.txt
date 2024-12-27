@@ -1,1 +1,1 @@
-istoreos-x86-64
+zzsrv/openwrt:x86_64
